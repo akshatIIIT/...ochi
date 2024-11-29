@@ -1,4 +1,7 @@
 ## Ochi Website Frontend Clone
+# view deployed project
+link-https://ochi-omega.vercel.app/
+
 # Overview
 This repository contains a frontend clone of the Ochi website, meticulously designed to replicate its layout, design, and responsiveness. The clone serves as a learning project to demonstrate proficiency in modern frontend technologies and design principles.
 
